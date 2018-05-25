@@ -1,1 +1,1 @@
-web: gunicorn leave-django-rest.wsgi
+web: gunicorn example.wsgi
