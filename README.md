@@ -1,11 +1,11 @@
 # leave1
 
-[a link](https://django-rest-leave.herokuapp.com/users/)
+## [Link to API](https://django-rest-leave.herokuapp.com/users/)
 
 **To Test:**
 *Run Postman*
 
-[a link](https://django-rest-leave.herokuapp.com/users/?format=json)
+## [(https://django-rest-leave.herokuapp.com/users/?format=json)]
 
 {
     "username": "yourname",
