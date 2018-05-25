@@ -4,3 +4,4 @@ Markdown==2.6.9
 Pillow==2.3.0
 django-filter==1.0.4
 djangorestframework==3.6.4
+whitenoise==3.3.1
