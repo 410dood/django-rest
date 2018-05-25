@@ -25,10 +25,10 @@ SECRET_KEY = '$gdnw3rlkfhtd8+-4)0sv_@ps@na7%vk5a&5p76k$%m=)wb6&_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = [
-#     https://django-rest-leave.herokuapp.com/,
-#     http://localhost:8000/,
-#     http://127.0.0.1:8000/, ]
+ALLOWED_HOSTS = [
+    django-rest-leave.herokuapp.com/,
+    localhost:8000/,
+    127.0.0.1:8000/, ]
 
 
 # Application definition
