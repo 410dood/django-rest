@@ -25,7 +25,7 @@ SECRET_KEY = '1h1md5h1(0@2ln^#&-a1xi35qs9j3@2vmcu@y7mc#x@3_^()nc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://django-rest-leave.herokuapp.com/]
 
 
 # Application definition
@@ -108,7 +108,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'MST'
 
 USE_I18N = True
 
