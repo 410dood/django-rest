@@ -12,6 +12,7 @@ Django = "==1.11.5"
 Markdown = "==2.6.9"
 Pillow = "==2.3.0"
 django-heroku = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
