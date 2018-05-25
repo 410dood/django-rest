@@ -25,7 +25,7 @@ SECRET_KEY = '$gdnw3rlkfhtd8+-4)0sv_@ps@na7%vk5a&5p76k$%m=)wb6&_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://django-rest-leave.herokuapp.com/]
 
 
 # Application definition
