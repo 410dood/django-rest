@@ -1,11 +1,10 @@
-# leave1
+# Leave APP DJANGO REST SERVER
 
-## [Link to API](https://django-rest-leave.herokuapp.com/users/)
+## [API](https://django-rest-leave.herokuapp.com/users/)
+Enter USER manually via django dashboard
 
 **To Test:**
-*Run Postman*
-
-## [(https://django-rest-leave.herokuapp.com/users/?format=json)]
+*Run Postman and enter url:*(https://django-rest-leave.herokuapp.com/users/?format=json)]
 
 {
     "username": "yourname",
