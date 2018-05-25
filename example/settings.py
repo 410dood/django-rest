@@ -26,9 +26,10 @@ SECRET_KEY = '$gdnw3rlkfhtd8+-4)0sv_@ps@na7%vk5a&5p76k$%m=)wb6&_'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    django-rest-leave.herokuapp.com/,
-    localhost:8000/,
-    127.0.0.1:8000/, ]
+    'django-rest-leave.herokuapp.com',
+    'localhost:8000',
+    '127.0.0.1:8000',
+    ]
 
 
 # Application definition
